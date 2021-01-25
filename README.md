@@ -1,3 +1,8 @@
 # Clustering-Hidden-Markov-Models-with-Variational-Bayesian-Hierarchical-EM
+sss
 
-## test 
+## Dataset
+
+## method
+
+## 
