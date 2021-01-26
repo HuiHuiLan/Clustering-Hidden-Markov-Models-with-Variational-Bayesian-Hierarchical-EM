@@ -4,6 +4,7 @@ The hidden Markov model (HMM) is a broadly applied generative model for represen
 ## Code Implementation
 This toolbox contains the main function of VBHEM-H3M and is based on Matlab . There includes
 
+* setup : setup the path for the toolbox.
 * src: 
   * vbhem        : VBHEM algorithm.
   * hmm          : VBEM for learning HMMs.
@@ -14,6 +15,7 @@ This toolbox contains the main function of VBHEM-H3M and is based on Matlab . Th
 * demo : an example of clustering eye movement data using VBHEM.
 * Synthetic_experiment : an example for clustering HMMs and comparing with other methods.
 
+
 ## Note
-The latest version of VBHEM code will be released on the website of [VISAL lab](http://visal.cs.cityu.edu.hk/research/emhmm/ "悬停显示")
+The latest version of VBHEM code will be released on the website of [VISAL lab](http://visal.cs.cityu.edu.hk/research/emhmm/ "悬停显示").
 
