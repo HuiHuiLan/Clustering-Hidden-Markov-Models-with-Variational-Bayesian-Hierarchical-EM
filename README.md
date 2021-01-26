@@ -11,7 +11,7 @@ This toolbox contains the main function of VBHEM-H3M and is based on Matlab . Th
   * plots        : for ploting the results.
   * util         : other codes.
 
-* demo: an example of clustering eye movement data using VBHEM.
+* demo : an example of clustering eye movement data using VBHEM.
 * synthetic_experiment : an example for clustering HMMs and comparing with other methods.
 
 ## Note
